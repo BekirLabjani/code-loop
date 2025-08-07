@@ -1,0 +1,19 @@
+section {
+   width: 100%;
+    max-width: 100%;
+    height: calc(100vh - 90px);
+    margin-top: 90px;
+    box-sizing: border-box;
+    background-color: #FBFBFB;
+    position: relative;
+}
+
+.herosection {
+    width: 100%;
+    height: calc(100vh - 200px);
+     background-image: url('../../../assets/img/ChatGPT\ Image\ 7.\ Aug.\ 2025\,\ 21_25_52.png');
+    background-repeat: no-repeat;
+    background-size: cover; // oder contain, je nach Bedarf
+    background-position: center;
+}
+
