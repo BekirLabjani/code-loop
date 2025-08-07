@@ -7,8 +7,9 @@ ng build --configuration=production
 echo 🟢 Build abgeschlossen. Git-Vorgang beginnt...
 
 git remote set-url origin git@github.com:BekirLabjani/code-loop.git
+
 git add .
-git commit -m "Update 0.001"
+git commit -m "Update 0.002"
 git push origin main
 
 echo ✅ Fertig!
