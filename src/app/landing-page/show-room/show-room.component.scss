@@ -5,8 +5,8 @@ section {
 .show-room {
   text-align: center;
   padding: 2rem;
+  position: relative; /* Oder entferne es ganz, wenn es nicht benötigt wird */
 }
-
 .project-cards {
   display: flex;
   gap: 1.5rem;
